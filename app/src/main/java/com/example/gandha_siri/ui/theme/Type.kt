@@ -1,0 +1,29 @@
+package com.example.gandha_siri.ui.theme
+
+import androidx.compose.material3.Typography
+import androidx.compose.ui.text.TextStyle
+import androidx.compose.ui.text.font.*
+import androidx.compose.ui.unit.sp
+
+val Typography = Typography(
+
+    headlineSmall = TextStyle(
+        fontWeight = FontWeight.Bold,
+        fontSize = 22.sp
+    ),
+
+    titleMedium = TextStyle(
+        fontWeight = FontWeight.SemiBold,
+        fontSize = 16.sp
+    ),
+
+    bodyMedium = TextStyle(
+        fontWeight = FontWeight.Normal,
+        fontSize = 14.sp
+    ),
+
+    bodySmall = TextStyle(
+        fontWeight = FontWeight.Normal,
+        fontSize = 12.sp
+    )
+)

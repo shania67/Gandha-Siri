@@ -1,0 +1,172 @@
+<resources>
+
+    <!-- APP -->
+    <string name="app_name">ಗಂಧ ಸಿರಿ</string>
+
+    <!-- NAVIGATION -->
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="trees">ಮರಗಳು</string>
+    <string name="advisor">ಸಲಹೆಗಾರ</string>
+    <string name="tools">ಉಪಕರಣಗಳು</string>
+    <string name="back">ಹಿಂದೆ</string>
+    <string name="profile">ಪ್ರೊಫೈಲ್</string>
+
+    <!-- HOME -->
+    <string name="greeting">ಸ್ವಾಗತ</string>
+    <string name="farm">ತೋಟ</string>
+    <string name="growth">ಬೆಳವಣಿಗೆ</string>
+    <string name="view">ನೋಡಿ</string>
+    <string name="quick_actions">ವೇಗವಾದ ಆಯ್ಕೆಗಳು</string>
+    <string name="view_trees">ಮರಗಳನ್ನು ನೋಡಿ</string>
+    <string name="guide">ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="security">ಭದ್ರತೆ</string>
+
+    <!-- TREE -->
+    <string name="add_tree">ಮರ ಸೇರಿಸಿ</string>
+    <string name="save_tree">ಮರ ಉಳಿಸಿ</string>
+    <string name="delete_tree">ಮರ ಅಳಿಸಿ</string>
+    <string name="tree_register">ಮರಗಳ ನೋಂದಣಿ</string>
+    <string name="no_trees_added">ಯಾವುದೇ ಮರಗಳನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ</string>
+
+    <string name="tree_name">ಮರದ ಹೆಸರು</string>
+    <string name="girth">ಗಾತ್ರ</string>
+    <string name="age">ವಯಸ್ಸು</string>
+
+    <!-- TREE DETAILS -->
+    <string name="tree_details">ಮರದ ವಿವರಗಳು</string>
+    <string name="tree_id">ಮರದ ಐಡಿ</string>
+    <string name="saved_location">ಉಳಿಸಲಾದ ಸ್ಥಳ</string>
+    <string name="latitude">ಅಕ್ಷಾಂಶ</string>
+    <string name="longitude">ರೇಖಾಂಶ</string>
+    <string name="maturity_status">ಪಕ್ವತೆಯ ಸ್ಥಿತಿ</string>
+    <string name="based_on_age_girth">ವಯಸ್ಸು ಮತ್ತು ಗಾತ್ರದ ಆಧಾರದ ಮೇಲೆ</string>
+
+    <string name="mature_tree">ಪೂರ್ಣ ಬೆಳೆದ ಮರ</string>
+    <string name="growing_tree">ಬೆಳೆಯುತ್ತಿರುವ ಮರ</string>
+    <string name="developing_tree">ಅಭಿವೃದ್ಧಿ ಹೊಂದುತ್ತಿರುವ ಮರ</string>
+    <string name="early_tree">ಆರಂಭಿಕ ಹಂತದ ಮರ</string>
+
+    <!-- MATURITY INDEX -->
+    <string name="maturity_index">ಪಕ್ವತೆಯ ಸೂಚ್ಯಂಕ</string>
+    <string name="asset_value_estimation">ಆಸ್ತಿ ಮೌಲ್ಯದ ಅಂದಾಜು</string>
+    <string name="time_to_harvest">ಕಟಾವಿಗೆ ಬೇಕಾದ ಸಮಯ</string>
+    <string name="yrs">ವರ್ಷಗಳು</string>
+    <string name="wood_grade">ಮರದ ದರ್ಜೆ</string>
+    <string name="premium_heartwood">ಪ್ರೀಮಿಯಂ ಹಾರ್ಟ್ವುಡ್</string>
+    <string name="market_value">ಮಾರುಕಟ್ಟೆ ಮೌಲ್ಯ</string>
+    <string name="girth_intensity">ಗಾತ್ರದ ತೀವ್ರತೆ</string>
+    <string name="biological_age">ಜೈವಿಕ ವಯಸ್ಸು</string>
+    <string name="simulated_data_disclaimer">ಸಿಮ್ಯುಲೇಟೆಡ್ ಡೇಟಾ. ಜೈವಿಕ ವ್ಯತ್ಯಾಸವು ನಿಜವಾದ ಇಳುವರಿಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು.</string>
+
+    <!-- LOCATION -->
+    <string name="fetch_location">ಸ್ಥಳ ಪಡೆಯಿರಿ</string>
+    <string name="location_not_fetched">ಸ್ಥಳವನ್ನು ಪಡೆಯಲಾಗಿಲ್ಲ</string>
+    <string name="location_permission_denied">ಸ್ಥಳ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗಿದೆ</string>
+    <string name="location_unavailable">ಸ್ಥಳ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="location_failed">ಸ್ಥಳ ಪಡೆಯಲು ವಿಫಲವಾಗಿದೆ</string>
+    <string name="lat">ಅಕ್ಷಾಂಶ</string>
+    <string name="lng">ರೇಖಾಂಶ</string>
+
+    <!-- IMAGE -->
+    <string name="select_image">ಚಿತ್ರ ಆಯ್ಕೆಮಾಡಿ</string>
+
+    <!-- PROFILE -->
+    <string name="profile_setup">ಪ್ರೊಫೈಲ್ ಸೆಟಪ್</string>
+    <string name="farmer_name">ರೈತನ ಹೆಸರು</string>
+    <string name="farm_name">ತೋಟದ ಹೆಸರು</string>
+    <string name="mobile_number">ಮೊಬೈಲ್ ಸಂಖ್ಯೆ</string>
+    <string name="save_profile">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+
+    <string name="default_farmer">ರೈತ</string>
+    <string name="default_farm">ನಿಮ್ಮ ತೋಟ</string>
+
+    <!-- LANGUAGE -->
+    <string name="select_language">ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+
+    <!-- ALERTS -->
+    <string name="alerts">ಎಚ್ಚರಿಕೆಗಳು</string>
+    <string name="clear_alerts">ಎಲ್ಲಾ ಎಚ್ಚರಿಕೆಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="no_alerts">ಯಾವುದೇ ಎಚ್ಚರಿಕೆಗಳಿಲ್ಲ</string>
+    <string name="farm_safe">ನಿಮ್ಮ ಗಂಧದ ತೋಟವು ಸುರಕ್ಷಿತವಾಗಿದೆ.</string>
+
+    <!-- ADVISOR -->
+    <string name="ai_advisor">ಎಐ ಸಲಹೆಗಾರ</string>
+    <string name="ask_question">ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿ</string>
+    <string name="ask">ಕೇಳಿ</string>
+    <string name="advisor_hint">ಮಣ್ಣು, ನೀರು, ಕೀಟಗಳು, ಬೆಳಕು ಅಥವಾ ಬೆಳವಣಿಗೆ ಬಗ್ಗೆ ಕೇಳಿ.</string>
+
+    <!-- AI RESPONSES -->
+    <string name="response_water">ಮರಗಳಿಗೆ ಬೆಳಿಗ್ಗೆ ಅಥವಾ ಸಂಜೆ ನೀರು ಹಾಕಿ. ಮಧ್ಯಾಹ್ನದ ಬಿಸಿಯಲ್ಲಿ ನೀರು ಹಾಕಬೇಡಿ.</string>
+    <string name="response_sunlight">ಗಂಧದ ಮರಗಳಿಗೆ ಉತ್ತಮ ಸೂರ್ಯಪ್ರಕಾಶ ಅಗತ್ಯವಿದೆ. ಪ್ರತಿದಿನ ಕನಿಷ್ಠ 6 ಗಂಟೆಗಳ ಬೆಳಕು ಬೇಕು.</string>
+    <string name="response_soil">ನೀರಿನ ನಿಲುವಿಲ್ಲದ ಉತ್ತಮ ಮಣ್ಣನ್ನು ಬಳಸಿ ಮತ್ತು ಸಾವಯವ ಗೊಬ್ಬರ ಸೇರಿಸಿ.</string>
+    <string name="response_growth">ಮರದ ಗಾತ್ರ, ಎಲೆ ಬಣ್ಣ ಮತ್ತು ಎತ್ತರವನ್ನು ನಿಯಮಿತವಾಗಿ ಪರಿಶೀಲಿಸಿ.</string>
+    <string name="response_pest">ಕೀಟಗಳಿಂದ ರಕ್ಷಿಸಲು ನೀಮ್ ಎಣ್ಣೆ ಅಥವಾ ಸಾವಯವ ಕೀಟನಾಶಕ ಬಳಸಿ.</string>
+    <string name="response_fertilizer">ಹಸುಮಳೆ ಅಥವಾ ಕಂಪೋಸ್ಟ್ ಗೊಬ್ಬರವನ್ನು ಬಳಸುವುದು ಉತ್ತಮ ಬೆಳವಣಿಗೆಗೆ ಸಹಾಯಕ.</string>
+    <string name="response_empty">ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ನಮೂದಿಸಿ.</string>
+    <string name="response_default">ನೀರು, ಮಣ್ಣು, ಬೆಳಕು, ಕೀಟಗಳು ಅಥವಾ ಬೆಳವಣಿಗೆ ಬಗ್ಗೆ ಕೇಳಬಹುದು.</string>
+
+    <!-- TREE MAP -->
+    <string name="tree_map">ಮರ ನಕ್ಷೆ</string>
+    <string name="all">ಎಲ್ಲಾ</string>
+    <string name="growing">ಬೆಳೆಯುತ್ತಿರುವ</string>
+    <string name="mature">ಪೂರ್ಣ ಬೆಳೆದ</string>
+    <string name="view_details">ವಿವರಗಳನ್ನು ನೋಡಿ</string>
+    <string name="no_trees_found">ಯಾವುದೇ ಮರಗಳು ಕಂಡುಬಂದಿಲ್ಲ</string>
+
+    <!-- SECURITY -->
+    <string name="defense_system">ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆ</string>
+    <string name="emergency_signal">ತುರ್ತು ಸಂಕೇತ</string>
+    <string name="sending_alert">ಅಧಿಕಾರಿಗಳಿಗೆ ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="tap_sos">ತುರ್ತು ಎಚ್ಚರಿಕೆ ಕಳುಹಿಸಲು ಒತ್ತಿರಿ</string>
+    <string name="last_location">ಕೊನೆಯ ಸ್ಥಳ</string>
+    <string name="security_score">ಭದ್ರತಾ ಅಂಕ</string>
+    <string name="infrastructure_status">ಮೂಲಸೌಕರ್ಯ ಸ್ಥಿತಿ</string>
+    <string name="electric_fencing">ವಿದ್ಯುತ್ ಬೇಲಿ</string>
+    <string name="night_surveillance">ರಾತ್ರಿ ನಿಗಾವಳಿ</string>
+    <string name="gps_tracking">ಜಿಪಿಎಸ್ ಟ್ರ್ಯಾಕಿಂಗ್</string>
+    <string name="ranger_station">ರೇಂಜರ್ ಕಚೇರಿ</string>
+
+    <!-- SOS -->
+    <string name="sos">ತುರ್ತು</string>
+    <string name="sos_alert">🚨 ತುರ್ತು ಎಚ್ಚರಿಕೆ</string>
+
+    <!-- ERRORS -->
+    <string name="fill_all_fields">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು ಚಿತ್ರ ಮತ್ತು ಸ್ಥಳವನ್ನು ಒದಗಿಸಿ.</string>
+
+    <!-- DIALOGS -->
+    <string name="delete_confirm">ನೀವು ಖಚಿತವಾಗಿ ಈ ಮರವನ್ನು ಅಳಿಸಲು ಬಯಸುವಿರಾ?</string>
+    <string name="yes">ಹೌದು</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+
+    <!-- LEGAL -->
+    <string name="legal_guide">ಕಾನೂನು ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="cultivation_rules">ಕೃಷಿ ನಿಯಮಗಳು</string>
+    <string name="cultivation_rules_content">ಗಂಧದ ಕೃಷಿಯನ್ನು ರಾಜ್ಯ ಅರಣ್ಯ ಇಲಾಖೆಗಳು ನಿಯಂತ್ರಿಸುತ್ತವೆ. ರೈತರು ತಮ್ಮ ತೋಟಗಳನ್ನು ನೋಂದಾಯಿಸಿಕೊಳ್ಳಬೇಕು.</string>
+    <string name="harvest_rules">ಕಟಾವು ನಿಯಮಗಳು</string>
+    <string name="harvest_rules_content">ಗಂಧದ ಮರವನ್ನು ಕತ್ತರಿಸಲು ಮತ್ತು ಕಟಾವು ಮಾಡಲು ಅರಣ್ಯ ಇಲಾಖೆಯ ಅನುಮತಿ ಮತ್ತು ಮೇಲ್ವಿಚಾರಣೆ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="transport_rules">ಸಾಗಾಣಿಕೆ ನಿಯಮಗಳು</string>
+    <string name="transport_rules_content">ಗಂಧದ ಮರವನ್ನು ಸಾಗಿಸಲು ಸಕ್ಷಮ ಪ್ರಾಧಿಕಾರದಿಂದ ನೀಡಲಾದ ಸಾಗಾಣಿಕೆ ಪಾಸ್ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="important_notice">ಪ್ರಮುಖ ಸೂಚನೆ</string>
+    <string name="important_notice_content">ಗಂಧದ ಮರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಕಾನೂನುಗಳು ರಾಜ್ಯದಿಂದ ರಾಜ್ಯಕ್ಕೆ ಬದಲಾಗುತ್ತವೆ. ಇತ್ತೀಚಿನ ನಿಯಮಗಳಿಗಾಗಿ ಯಾವಾಗಲೂ ನಿಮ್ಮ ಸ್ಥಳೀಯ ಅರಣ್ಯ ಕಚೇರಿಯನ್ನು ಸಂಪರ್ಕಿಸಿ.</string>
+    <string name="open_official_source">ಅಧಿಕೃತ ಮೂಲವನ್ನು ತೆರೆಯಿರಿ</string>
+
+    <!-- GUIDE -->
+    <string name="farmer_guide">ರೈತ ಮಾರ್ಗದರ್ಶಿ</string>
+    <string name="legal_guidelines_title">ಶ್ರೀಗಂಧದ ಕಾನೂನು ಮಾರ್ಗಸೂಚಿಗಳು</string>
+    <string name="legal_guidelines_content">"• ಶ್ರೀಗಂಧದ ಕೃಷಿ ಅನೇಕ ಭಾರತೀಯ ರಾಜ್ಯಗಳಲ್ಲಿ ಕಾನೂನುಬದ್ಧವಾಗಿದೆ.\n• ರೈತರು ಖಾಸಗಿ ಜಮೀನಿನಲ್ಲಿ ಶ್ರೀಗಂಧ ಬೆಳೆಯಲು ಅವಕಾಶವಿದೆ.\n• ಅರಣ್ಯ ಇಲಾಖೆಯಲ್ಲಿ ನೋಂದಣಿ ಮಾಡಿಕೊಳ್ಳಲು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.\n• ಕಟಾವು ಮಾಡುವ ಮೊದಲು ಮರಗಳನ್ನು ದಾಖಲಿಸಬೇಕು.\n• ಸಾರಿಗೆ ಪರವಾನಗಿ ಅಗತ್ಯವಿದೆ."</string>
+    <string name="harvesting_procedure_title">ಕಟಾವು ಪ್ರಕ್ರಿಯೆ</string>
+    <string name="harvesting_procedure_content">"• ಕತ್ತರಿಸುವ ಮೊದಲು ಅರಣ್ಯ ಇಲಾಖೆಗೆ ತಿಳಿಸಿ.\n• ಪ್ರೌಢ ಮರಗಳನ್ನು ಮಾತ್ರ ಕಟಾವು ಮಾಡಬೇಕು.\n• ಅಧಿಕೃತ ತಪಾಸಣೆ ಅಗತ್ಯವಿರಬಹುದು.\n• ಕತ್ತರಿಸುವ ಅನುಮತಿ ಪಡೆಯಿರಿ.\n• ಅಧಿಕೃತ ಚಾನಲ್‌ಗಳ ಮೂಲಕ ಮಾರಾಟ ಮಾಡಿ."</string>
+    <string name="tree_security_title">ಮರಗಳ ಭದ್ರತಾ ಸಲಹೆಗಳು</string>
+    <string name="tree_security_content">"• ತೋಟದ ಸುತ್ತಲೂ ಬೇಲಿ ಹಾಕಿ.\n• ಸೌರ ದೀಪಗಳನ್ನು ಬಳಸಿ.\n• ಪ್ರತ್ಯೇಕವಾದ ನೆಟ್ಟ ವಲಯಗಳನ್ನು ತಪ್ಪಿಸಿ.\n• ಡಿಜಿಟಲ್ ದಾಖಲೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ.\n• ತುರ್ತು ಸಂದರ್ಭಗಳಲ್ಲಿ SOS ಬಳಸಿ."</string>
+    <string name="growth_maintenance_title">ಬೆಳವಣಿಗೆ ಮತ್ತು ನಿರ್ವಹಣೆ</string>
+    <string name="growth_maintenance_content">"• ನಿಯಮಿತವಾಗಿ ಸುತ್ತಳತೆಯನ್ನು ಅಳೆಯಿರಿ.\n• ಅಂತರವನ್ನು ಕಾಯ್ದುಕೊಳ್ಳಿ.\n• ಸೂರ್ಯನ ಬೆಳಕನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.\n• ಸಾವಯವ ಗೊಬ್ಬರಗಳನ್ನು ಬಳಸಿ.\n• ಆರೋಗ್ಯವನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ."</string>
+    <string name="guide_important_note_title">ಪ್ರಮುಖ ಸೂಚನೆ</string>
+    <string name="guide_important_note_content">"ಈ ಅಪ್ಲಿಕೇಶನ್ ಶ್ರೀಗಂಧದ ಮರಗಳ ಡಿಜಿಟಲ್ ದಾಖಲೆಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.\n\nಯಾವಾಗಲೂ ಅಧಿಕೃತ ಸರ್ಕಾರಿ ಮೂಲಗಳೊಂದಿಗೆ ನಿಯಮಗಳನ್ನು ಪರಿಶೀಲಿಸಿ.\n\nಗಂಧ-ಸಿರಿ ಸುರಕ್ಷಿತ ಮತ್ತು ಕಾನೂನುಬದ್ಧ ಕೃಷಿಯನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ."</string>
+
+    <!-- MISC -->
+    <string name="help">ಸಹಾಯ</string>
+
+</resources>
