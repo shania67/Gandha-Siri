@@ -127,7 +127,7 @@ app/
 ## Developed By
 
 **Shania Margaret Saini**
-Polytechnic Student – Electrical & Electronics Engineering
+B.E. Student – Computer Science & Engineering
 
 ---
 
